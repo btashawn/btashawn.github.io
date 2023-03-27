@@ -6,3 +6,17 @@ h2 {
 	text-color: #e6e6fa;
 }
 
+a:link {
+
+	color: purple;
+}
+
+a:visited {
+	color: red;
+}
+
+a:hover { 
+	color: white;
+}
+
+
